@@ -1,5 +1,4 @@
-# big-data
-Insight of US Cuisine Market from Food Review App Big Data Project
+# Insight of US Cuisine Market from Food Review App Big Data Project
 
 📊 Data Analysis
 A data analysis project to solve case problems with bigdata analytics using Python.
