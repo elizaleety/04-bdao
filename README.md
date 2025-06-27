@@ -14,6 +14,7 @@ SQL
 Tableau
 
 ## 📊 Data
+yelp dataset https://business.yelp.com/data/resources/open-dataset/
 The dataset includes tables such as business_data, user_data, review_data, tips_data, checkin_data...etc
 
 ## 🧪 Key Insights
